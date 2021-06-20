@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadastroContato", "CadastroContato\CadastroContato.csproj", "{8A4BDB6C-C472-42CF-906D-C9DABD939B1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICadastroContato", "APICadastroContato\APICadastroContato.csproj", "{007C4A9D-62F9-4468-8631-AFEC66D7A99C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A4BDB6C-C472-42CF-906D-C9DABD939B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4BDB6C-C472-42CF-906D-C9DABD939B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4BDB6C-C472-42CF-906D-C9DABD939B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4BDB6C-C472-42CF-906D-C9DABD939B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{007C4A9D-62F9-4468-8631-AFEC66D7A99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007C4A9D-62F9-4468-8631-AFEC66D7A99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007C4A9D-62F9-4468-8631-AFEC66D7A99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007C4A9D-62F9-4468-8631-AFEC66D7A99C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {644C11D0-B5B8-433D-8436-2AE1C07733F6}
+	EndGlobalSection
+EndGlobal
